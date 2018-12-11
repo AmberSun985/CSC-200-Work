@@ -17,7 +17,7 @@ public class Homework5Class
 	{
 		{
 			System.out.println("My Name is  Sien Sun");
-			playGame( );
+			playGame( ); // comment
 		}
 		
 	} // end main
