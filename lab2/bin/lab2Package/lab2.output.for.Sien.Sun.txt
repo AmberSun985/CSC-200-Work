@@ -1,0 +1,12 @@
+lab2 output for Sien Sun.txt 
+
+Step #27Output
+Sien Sun 
+Enter your name
+Number of Eggs		    25
+Complete Dozen Eggs	    2
+Number of Leftover Eggs	1
+
+
+
+

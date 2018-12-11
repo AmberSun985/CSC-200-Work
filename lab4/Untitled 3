@@ -1,0 +1,41 @@
+Lab 4 Output For Sien Sun .txt
+
+Output for source code 3 run # 1
+My name is Sien Sun
+Enter your current age:	-10
+Enter your current age:	-10
+Enter your current age:	-10
+Too many tries for a valid current age!
+
+Output for source code 3 run # 2
+My name is Sien Sun
+Enter your current age:	-10
+Enter your current age:	25
+Enter the current year:	-2000
+Enter the current year:	-2000
+Enter the current year:	-2000
+Too many tries for a valid current year!
+
+Output for source code 3 run # 3
+My name is Sien Sun
+Enter your current age:	25
+Enter the current year:	-2000
+Enter the current year:	-2000
+Enter the current year:	2011
+Enter the future year: 
+-2000
+Enter the future year: 
+2000
+Enter the future year: 
+2000
+Too many tries for a valid future year!
+
+Output for source code 3 run # 4
+My name is Sien Sun
+Enter your current age:	18
+Enter the current year:	2018
+Enter the future year: 
+2030
+In the year 2018 you are 18 years old.
+In the year 2030 you will be 30 years old.
+

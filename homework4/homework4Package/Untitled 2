@@ -1,0 +1,44 @@
+Homework 4 Output 1 for Sien Sun .txt
+
+Enter the number of students in the class: 
+5
+Enter the name of student: 
+Sien Sun 
+Enter the numeric grade for Sien Sun : 
+99
+The name of the student is: Sien Sun 
+The numeric grade for Sien Sun  is: 99.0
+The letter grade for Sien Sun  is: A
+Enter the name of student: 
+Mickey Mouse 
+Enter the numeric grade for Mickey Mouse : 
+47
+The name of the student is: Mickey Mouse 
+The numeric grade for Mickey Mouse  is: 47.0
+The letter grade for Mickey Mouse  is: F
+Enter the name of student: 
+Donald Duck
+Enter the numeric grade for Donald Duck: 
+-80
+Invalid numeric grades -80.0. Please enter the numeric grade again.
+Reenter the numeric grade for Donald Duck: 
+86
+The name of the student is: Donald Duck
+The numeric grade for Donald Duck is: 86.0
+The letter grade for Donald Duck is: B
+Enter the name of student: 
+Goofy Dog
+Enter the numeric grade for Goofy Dog: 
+70
+The name of the student is: Goofy Dog
+The numeric grade for Goofy Dog is: 70.0
+The letter grade for Goofy Dog is: C
+Enter the name of student: 
+Minnie Mouse 
+Enter the numeric grade for Minnie Mouse : 
+69
+The name of the student is: Minnie Mouse 
+The numeric grade for Minnie Mouse  is: 69.0
+The letter grade for Minnie Mouse  is: D
+The average numeric grade of this class is: 74.2
+The average letter grade of this class is: C

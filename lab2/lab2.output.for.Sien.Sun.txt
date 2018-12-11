@@ -1,0 +1,44 @@
+lab2 output for Sien Sun
+
+
+Step #27 Output
+Sien Sun 
+Enter your name
+Number of Eggs		    25
+Complete Dozen Eggs	    2
+Number of Leftover Eggs	1
+
+
+Step #42 Output
+Sien Sun
+Enter your name
+Number of Eggs		    18
+Complete Dozen Eggs	    1
+Number of Leftover Eggs	6
+
+
+step # 101 output
+Sien Sun
+Enter the total number of eggs		88
+Number of Eggs		    88
+Complete Dozen Eggs	    7
+Number of Leftover Eggs	4
+
+step #106 output
+Sien Sun
+Enter the total number of eggs		5
+Number of Eggs		    5
+Complete Dozen Eggs	    0
+Number of Leftover Eggs	5
+
+
+Step #124 output
+Sien Sun
+Enter the total number of eggs		88
+Number of Eggs		    88
+Complete Dozen Eggs	    7
+Number of Leftover Eggs	4
+Number of Full Cases	1
+
+
+

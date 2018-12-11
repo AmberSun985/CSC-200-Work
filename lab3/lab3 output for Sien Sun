@@ -1,0 +1,56 @@
+lab3 output for Sien Sun.txt 
+
+output for run#1
+My name is Sien Sun
+Enter the number:
+-8
+-8 is negative
+-8 does not match either case
+
+output for run#2
+My name is Sien Sun
+Enter the number:
+37
+37 is positive
+37 is odd
+37 falls into the upper range
+
+output for run#3
+My name is Sien Sun
+Enter the number:
+-1
+-1 is negative
+-1 matches the first case
+
+output for run#4
+My name is Sien Sun
+Enter the number:
+0
+0 is positive
+0 is even
+0 does not fall into either range
+
+output for run#5
+My name is Sien Sun
+Enter the number:
+97 
+97 is positive
+97 is odd
+97 does not fall into either range
+
+output for run#6
+My name is Sien Sun
+Enter the number:
+-3
+-3 is negative
+-3 matches the second case
+
+output for run#7
+My name is Sien Sun
+Enter the number:
+12
+12 is positive
+12 is even
+12 falls into the lower range
+
+

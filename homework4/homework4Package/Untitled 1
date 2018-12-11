@@ -1,0 +1,91 @@
+Homework 4 Output 2 for Sien Sun .txt
+
+RUN # 1
+Banking Transactions for Sien Sun
+Enter 1 for deposit transaction, or enter 2 for withdraw transaction: 
+1
+Enter the money you want to deposit: 65.72
+The current balance is: $565.72
+Enter 1 for deposit transaction, or enter 2 for withdraw transaction: 
+1
+Enter the money you want to deposit: 175.23
+The current balance is: $740.95
+Enter 1 for deposit transaction, or enter 2 for withdraw transaction: 
+2
+Enter the money you want to withdraw: 
+15.50
+The current balance is: $725.45
+Enter 1 for deposit transaction, or enter 2 for withdraw transaction: 
+1
+Enter the money you want to deposit: 175.23
+The current balance is: $900.68
+Enter 1 for deposit transaction, or enter 2 for withdraw transaction: 
+2
+Enter the money you want to withdraw: 
+66.91
+The current balance is: $833.77
+
+RUN # 2
+Banking Transactions for Sien Sun
+Enter 1 for deposit transaction, or enter 2 for withdraw transaction: 
+2
+Enter the money you want to withdraw: 
+65.72
+The current balance is: $434.28
+Enter 1 for deposit transaction, or enter 2 for withdraw transaction: 
+2
+Enter the money you want to withdraw: 
+1000
+You are not allowed to overdraw the money in your account. Invalid withdraw transaction: $1000.00
+Reenter the money you want to withdraw: 
+100
+The current balance is: $334.28
+Enter 1 for deposit transaction, or enter 2 for withdraw transaction: 
+1
+Enter the money you want to deposit: 
+27.72
+The current balance is: $362.00
+Enter 1 for deposit transaction, or enter 2 for withdraw transaction: 
+2
+Enter the money you want to withdraw: 
+20
+The current balance is: $342.00
+Enter 1 for deposit transaction, or enter 2 for withdraw transaction: 
+2
+Enter the money you want to withdraw: 
+20
+The current balance is: $322.00
+
+RUN # 3 
+Banking Transactions for Sien Sun
+Enter 1 for deposit transaction, or enter 2 for withdraw transaction: 
+1
+Enter the money you want to deposit: 
+-22.50
+Invalid deposit money: $-22.50
+Reenter the money you want to deposit: 
+22.50
+The current balance is: $522.50
+Enter 1 for deposit transaction, or enter 2 for withdraw transaction: 
+2
+Enter the money you want to withdraw: 
+-88.62
+Invalid withdraw money: $-88.62
+Reenter the money you want to withdraw: 
+88.62
+The current balance is: $433.88
+Enter 1 for deposit transaction, or enter 2 for withdraw transaction: 
+1
+Enter the money you want to deposit: 
+222.22
+The current balance is: $656.10
+Enter 1 for deposit transaction, or enter 2 for withdraw transaction: 
+2
+Enter the money you want to withdraw: 
+20.00
+The current balance is: $636.10
+Enter 1 for deposit transaction, or enter 2 for withdraw transaction: 
+2
+Enter the money you want to withdraw: 
+0.00
+The current balance is: $636.10
